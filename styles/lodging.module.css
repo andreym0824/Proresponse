@@ -1,0 +1,71 @@
+  .lodging {
+    width: 100%;
+    /* display: flex !important; */
+    justify-content: center !important;
+    align-items: center !important;
+  }
+
+  .h2{
+      color: #3f51b5;
+      text-align: center;
+  }
+  .em{
+    margin-left:14px !important;
+    text-rendering: auto;
+    color: -internal-light-dark(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    text-align: start;
+    cursor: text;
+    font: 400 13.3333px Arial;
+  }
+  .h3{
+    text-align: center !important;
+    }
+ .custom{
+    margin-left:14px !important;
+    font: 400 13.3333px Arial;
+    border: none !important;
+    border-radius: 5px;
+    width: 100%;
+    margin-bottom: 10px !important;
+    padding: 15px 15px;
+    outline: none !important;
+    background-color: whitesmoke;
+  }
+  .filled {
+    border: none !important;
+    border-radius: 5px;
+    width: 100%;
+    margin-bottom: 10px !important;
+    padding: 15px 15px;
+    outline: none !important;
+    background-color: whitesmoke;
+  }
+
+  .btnDivSubmit{
+    align-items: flex-end;
+    display: flex;
+  }
+  .LodgingSubmit{
+      background-color: #3f51b5!important;
+      color: white !important;
+      text-align: center;
+  }
+  .btn1{
+    flex: 1;
+  }
+ 
+  .roomDiv{
+    border: none !important;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 10px 10px;
+    box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.75);
+    z-index: 1;
+  }
+  
+

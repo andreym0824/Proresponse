@@ -1,0 +1,96 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Josh Joshley",
+      "email": "test@gmail.com",
+      "working": false,
+      "note": ""
+    },  
+    {
+      "id": 2,
+      "name": "Dallas Texas",
+      "email": "test2@gmail.com",
+      "working": false,
+      "note": ""
+    },
+    {
+      "id": 4,
+      "name": "Jimbo Henson",
+      "email": "test3@gmail.com",
+      "working": false,
+      "note": ""
+    },
+    {
+      "id": 5,
+      "name": "Shannon Ramirez",
+      "email": "test3@gmail.com",
+      "working": false,
+      "note": ""
+    },
+    {
+      "id": 6,
+      "name": "James Smith",
+      "email": "test3@gmail.com",
+      "working": false,
+      "note": ""
+    },
+    {
+      "id": 7,
+      "name": "Anne Miller",
+      "email": "test4@gmail.com",
+      "working": false,
+      "note": ""
+    },
+    {
+      "id": 8,
+      "name": "Ronnie Banda",
+      "email": "test4@gmail.com",
+      "working": false,
+      "note": ""
+    },
+    {
+      "id": 9,
+      "name": "Siegfred Mercado",
+      "email": "test3@gmail.com",
+      "working": false,
+      "note": ""
+    }
+  ],
+  "records": [
+    {
+      "crew_id": "",
+      "date": "",
+      "hotel_name": "",
+      "hotel_address": "",
+      "room_number": "",
+      "Rate": "",
+      "InDate": "",
+      "OutDate": ""
+    }
+  ],
+  "jobOrder": [
+    {
+      "Job_number": "",
+      "customer_name": "",
+      "job_num": "",
+      "event": "",
+      "job_": "",
+      "rfsNumber": "",
+      "supervisor": ""
+    }
+  ],
+  "timesheet": [
+    {
+      "date": "",
+      "number": "",
+      "job_number": "",
+      "customer": "",
+      "jobsite_name": "",
+      "jobsite_address": "",
+      "supervisor": "",
+      "startTime": "",
+      "endTime": ""
+    }
+  ]
+}

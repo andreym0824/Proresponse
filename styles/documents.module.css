@@ -1,0 +1,32 @@
+.divDocument{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.h2{
+    color: #3f51b5;
+}
+
+.headDocument{
+    display: flex;
+    Justify-content: space-around;
+}
+
+.dailyTimesheet{
+    width: 100%;
+    height: auto;
+    border: solid 1px black;
+    margin-bottom: 1px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.dailyTrackinglog{
+    width: 100%;
+    height:auto;
+    border: solid 1px black;
+    margin-bottom: 1px;
+    display: flex;
+    justify-content: space-around;
+}

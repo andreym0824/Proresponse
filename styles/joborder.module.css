@@ -1,0 +1,13 @@
+.LodgingSubmit{
+    background-color: red!important;
+    color: white !important;
+    margin-left: 5px!important;
+}
+
+.btnDiv{
+    display: flex;
+    align-items: flex-end;
+}
+.btnDiv1{
+    flex: 1;
+}

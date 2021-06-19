@@ -1,0 +1,58 @@
+.timesheetTable{
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 5px 5px;
+}
+
+.body__timeTable{
+    display: flex;
+    justify-content: center;
+    align-items: space-around;
+    flex: 1;
+}
+.addtimeLabel{
+    display: flex;
+    justify-content: space-evenly;
+    border-bottom: 1px solid black;
+    padding: 10px 10px;
+}
+
+.employee{
+    margin-left: -25px;
+}
+
+.start{
+    margin-left: -20px;
+}
+
+.addtimeInput{
+    display: flex;
+    justify-content: space-between;
+}
+.addtimeInput > input {
+    padding: 10px 10px;
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    width: 20%;
+}
+
+.timesheetUpload{
+    background-color: rgba(184, 184, 6, 0.705)!important;
+    color: white !important;
+    margin-left: 15px!important;
+}
+
+.timesheetSubmit{
+    margin-left: 5px!important;
+}
+
+.btnDiv{
+    display: flex;
+    align-items: flex-end;
+    margin-right:20px;
+}
+.btnDiv1{
+    flex: 1;
+}

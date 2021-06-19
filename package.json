@@ -1,0 +1,36 @@
+{
+  "name": "proresponse",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "json-server -p 3006 -w db.json"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.58",
+    "@types/date-fns": "^2.6.0",
+    "axios": "^0.21.1",
+    "date-fns": "^2.22.1",
+    "dotenv": "^10.0.0",
+    "json-server": "^0.16.3",
+    "next": "^10.2.0",
+    "notistack": "^1.0.9",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.6.1",
+    "react-datepicker": "^4.1.1",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^5.2.0",
+    "react-transition-group": "^4.4.2",
+    "react-uuid": "^1.0.2",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.9",
+    "typescript": "^4.3.2"
+  }
+}
